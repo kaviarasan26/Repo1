@@ -1,0 +1,12 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is A6D5-C5AA
+
+ Directory of D:\new
+
+21-10-2022  13:20    <DIR>          .
+21-10-2022  13:20    <DIR>          ..
+21-10-2022  13:20                 0 data1.txt
+21-10-2022  13:00                 0 index.html
+21-10-2022  12:58                 9 text1.txt
+               3 File(s)              9 bytes
+               2 Dir(s)  694,803,951,616 bytes free
